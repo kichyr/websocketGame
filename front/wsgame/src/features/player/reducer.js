@@ -1,8 +1,12 @@
+import { HEAD_SPRITE_COORD } from '../../config/constants';
+
 const initialState = {
+    direction: "",
     position: [0, 0],
     sprite: {
-        X: -30,
-        Y: -10,
+        last_sprite_update_time: -Infinity,
+        X: HEAD_SPRITE_COORD['SOUTH'][0],
+        Y: HEAD_SPRITE_COORD['SOUTH'][1],
     }
 }
 
