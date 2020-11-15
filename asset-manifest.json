@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/wsgame/static/css/main.5f361e03.chunk.css",
-    "main.js": "/wsgame/static/js/main.f7556cd5.chunk.js",
-    "main.js.map": "/wsgame/static/js/main.f7556cd5.chunk.js.map",
-    "runtime-main.js": "/wsgame/static/js/runtime-main.2c6adf57.js",
-    "runtime-main.js.map": "/wsgame/static/js/runtime-main.2c6adf57.js.map",
-    "static/js/2.eb53c1c1.chunk.js": "/wsgame/static/js/2.eb53c1c1.chunk.js",
-    "static/js/2.eb53c1c1.chunk.js.map": "/wsgame/static/js/2.eb53c1c1.chunk.js.map",
-    "index.html": "/wsgame/index.html",
-    "precache-manifest.d35d184bd4946e8238066a88e1fa5cbd.js": "/wsgame/precache-manifest.d35d184bd4946e8238066a88e1fa5cbd.js",
-    "service-worker.js": "/wsgame/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/wsgame/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.eb53c1c1.chunk.js.LICENSE.txt": "/wsgame/static/js/2.eb53c1c1.chunk.js.LICENSE.txt",
-    "static/media/isaak_sprite.png": "/wsgame/static/media/isaak_sprite.17b2dfe5.png"
+    "main.css": "/websocketGame/static/css/main.5f361e03.chunk.css",
+    "main.js": "/websocketGame/static/js/main.f7556cd5.chunk.js",
+    "main.js.map": "/websocketGame/static/js/main.f7556cd5.chunk.js.map",
+    "runtime-main.js": "/websocketGame/static/js/runtime-main.3b06552d.js",
+    "runtime-main.js.map": "/websocketGame/static/js/runtime-main.3b06552d.js.map",
+    "static/js/2.eb53c1c1.chunk.js": "/websocketGame/static/js/2.eb53c1c1.chunk.js",
+    "static/js/2.eb53c1c1.chunk.js.map": "/websocketGame/static/js/2.eb53c1c1.chunk.js.map",
+    "index.html": "/websocketGame/index.html",
+    "precache-manifest.ab3820f4bf91c44219436b900ccbabf5.js": "/websocketGame/precache-manifest.ab3820f4bf91c44219436b900ccbabf5.js",
+    "service-worker.js": "/websocketGame/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/websocketGame/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eb53c1c1.chunk.js.LICENSE.txt": "/websocketGame/static/js/2.eb53c1c1.chunk.js.LICENSE.txt",
+    "static/media/isaak_sprite.png": "/websocketGame/static/media/isaak_sprite.17b2dfe5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c6adf57.js",
+    "static/js/runtime-main.3b06552d.js",
     "static/js/2.eb53c1c1.chunk.js",
     "static/css/main.5f361e03.chunk.css",
     "static/js/main.f7556cd5.chunk.js"
