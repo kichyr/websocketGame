@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wsgame/static/css/main.5f361e03.chunk.css",
+    "main.js": "/wsgame/static/js/main.f7556cd5.chunk.js",
+    "main.js.map": "/wsgame/static/js/main.f7556cd5.chunk.js.map",
+    "runtime-main.js": "/wsgame/static/js/runtime-main.2c6adf57.js",
+    "runtime-main.js.map": "/wsgame/static/js/runtime-main.2c6adf57.js.map",
+    "static/js/2.eb53c1c1.chunk.js": "/wsgame/static/js/2.eb53c1c1.chunk.js",
+    "static/js/2.eb53c1c1.chunk.js.map": "/wsgame/static/js/2.eb53c1c1.chunk.js.map",
+    "index.html": "/wsgame/index.html",
+    "precache-manifest.d35d184bd4946e8238066a88e1fa5cbd.js": "/wsgame/precache-manifest.d35d184bd4946e8238066a88e1fa5cbd.js",
+    "service-worker.js": "/wsgame/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/wsgame/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.eb53c1c1.chunk.js.LICENSE.txt": "/wsgame/static/js/2.eb53c1c1.chunk.js.LICENSE.txt",
+    "static/media/isaak_sprite.png": "/wsgame/static/media/isaak_sprite.17b2dfe5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c6adf57.js",
+    "static/js/2.eb53c1c1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f7556cd5.chunk.js"
+  ]
+}
